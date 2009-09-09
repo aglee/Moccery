@@ -1,0 +1,73 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7346D4A910575D380020FD6D /* Moccery */;
+		activeTarget = 8D1107260486CEB800E47090 /* Moccery */;
+		codeSenseManager = 7346D4B610575D560020FD6D /* Code sense */;
+		executables = (
+			7346D4A910575D380020FD6D /* Moccery */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 274160952;
+			PBXWorkspaceStateSaveDate = 274160952;
+		};
+		sourceControlManager = 7346D4B510575D560020FD6D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7346D4A910575D380020FD6D /* Moccery */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Moccery;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	7346D4B510575D560020FD6D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7346D4B610575D560020FD6D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	77C8280B06725ACE000B614F /* Moccery_AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {717, 492}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 763}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Moccery */ = {
+		activeExec = 0;
+		executables = (
+			7346D4A910575D380020FD6D /* Moccery */,
+		);
+	};
+}
